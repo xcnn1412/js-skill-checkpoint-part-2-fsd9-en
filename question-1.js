@@ -9,6 +9,4 @@ const techcoolPeople = [
   { name: "Eve", age: 19 },
 ];
 
-const allPeople = [];
-
 // เริ่มเขียนโค้ดตรงนี้
